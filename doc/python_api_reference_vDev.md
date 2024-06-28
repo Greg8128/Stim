@@ -14131,7 +14131,7 @@ def z(
 # stim.TableauSimulator.z_error
 
 # (in class stim.TableauSimulator)
-def y_error(
+def z_error(
     self,
     *targets: int,
     p: float,
